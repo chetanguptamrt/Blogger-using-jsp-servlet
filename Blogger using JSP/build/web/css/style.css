@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-Jun-2021, 3:18:00 PM
+    Author     : chetan
+*/
+
+body{
+    background-color: rgb(75, 74, 74);
+}
+.blog-textarea{
+    resize: none;
+}
